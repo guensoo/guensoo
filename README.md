@@ -18,6 +18,16 @@ print("Hello Python")
 MySQL
 ```
 
+### JAVA
+```JAVA
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
+```
+ing
 <!--
 **ChoiKeen/ChoiKeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
