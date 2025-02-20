@@ -1,4 +1,22 @@
 ## Hi there 👋
+### C
+```C
+# include <stdio.h>
+int main {
+printf("Hello World");
+return 0;
+}
+```
+
+### Python
+```Python
+print("Hello Python")
+```
+
+### DBMS
+```DBMS
+MySQL
+```
 
 <!--
 **ChoiKeen/ChoiKeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
