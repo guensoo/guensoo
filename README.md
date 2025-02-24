@@ -10,6 +10,8 @@ return 0;
 
 ### Python
 ```Python
+a = ['Hello Python')
+a[2:5]
 print("Hello Python")
 ```
 
