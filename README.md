@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 ### C
 ```C
 #include <stdio.h>
