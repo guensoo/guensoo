@@ -7,7 +7,7 @@
 ---
 ##SKILLS
 ---
-<image src="img/c.png" width="5%" height="5%">
+<image src="img/c.png" width="5%" height="5%"> <image src="img/python.webp" width="5%" height="5%"> <image src="img/mysql.png" width="5%" height="5%"> <image src="img/oracle.png" width="5%" height="5%"> <image src="img/java_icon.png" width="5%" height="5%"> <image src="img/springBoot.png" width="5%" height="5%">
 ### C
 ```C
 #include <stdio.h>
@@ -16,20 +16,21 @@ printf("Hello World");
 return 0;
 }
 ```
-<image src="img/python.webp" width="5%" height="5%">
+
 ### Python
+
 ```Python
 a = ['Hello Python')
 a[2:5]
 print("Hello Python")
 ```
-<image src="img/mysql.png" width="5%" height="5%"> <image src="img/oracle.png" width="5%" height="5%">
+
 ### DBMS
 ```DBMS
 MySQL
 ORACLE
 ```
-<image src="img/java_icon.png" width="5%" height="5%"> <image src="img/springBoot.png" width="5%" height="5%">
+
 ### JAVA
 ```JAVA
 public class Main
