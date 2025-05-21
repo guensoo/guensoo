@@ -7,7 +7,7 @@
 ---
 ##SKILLS
 ---
-<image src="img/c.png" width="5%" height="5%"> <image src="img/python.webp" width="5%" height="5%"> <image src="img/mysql.png" width="5%" height="5%"> <image src="img/oracle.png" width="5%" height="5%"> <image src="img/java_icon.png" width="5%" height="5%"> <image src="img/springBoot.png" width="5%" height="5%">
+<image src="img/c.png" width="5%" height="5%"> <image src="img/python.webp" width="5%" height="5%"> <image src="img/mysql.png" width="5%" height="5%"> <image src="img/oracle.png" width="5%" height="5%"> <image src="img/java.png" width="5%" height="5%"> <image src="img/springBoot.png" width="5%" height="5%">
 ### C
 ```C
 #include <stdio.h>
