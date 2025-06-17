@@ -15,3 +15,14 @@
 
 ## 활용 기술
 <image src="img/html.svg.png" width="5%" height="5%">  <image src="img/css.svg.png" width="4%" height="4%"> <image src="img/JavaScript.png" width="5%" height="5%"> <image src="img/logo512.png" width="5%" height="5%">
+
+
+### Collaboration Tool
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guensoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=guensoo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
