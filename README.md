@@ -1,10 +1,10 @@
 # 보유 SKILLS
 ## Front-end
-<img src="img/html.svg.png" width="60px"> <image src="img/css.svg.png" width="5%" height="5%"> <image src="img/JavaScript.png" width="5%" height="5%"> <image src="img/logo512.png" width="5%" height="5%"> <image src="img/RN.png" width="5%" height="5%">
+<img src="img/html.svg.png" width="60px"> <img src="img/css.svg.png" width="60px"> <img src="img/JavaScript.png" width="60px"> <img src="img/logo512.png" width="60px"> <img src="img/RN.png" width="60px">
 ## Back-end
-<image src="img/c.png" width="5%" height="5%"> <image src="img/python.webp" width="5%" height="5%"> <image src="img/java.png" width="5%" height="5%"> <image src="img/springBoot.png" width="5%" height="5%">
+<img src="img/c.png" width="60px"> <img src="img/python.webp" width="60px"> <img src="img/java.png" width="60px"> <img src="img/springBoot.png" width="60px">
 ## DBMS
-<image src="img/mysql.png" width="5%" height="5%"> <image src="img/oracle.png" width="5%" height="5%">
+<img src="img/mysql.png" width="60px"> <img src="img/oracle.png" width="60px">
 
 ---
 
@@ -14,7 +14,7 @@
 🔗 **[코드 보러 가기](https://github.com/guensoo/guensoo.github.io)**
 
 ## 활용 기술
-<img src="img/html.svg.png" width="5%" height="5%"> <image src="img/css.svg.png" width="4%" height="4%"> <image src="img/JavaScript.png" width="5%" height="5%"> <image src="img/logo512.png" width="5%" height="5%">
+<img src="img/html.svg.png" width="60px"> <img src="img/css.svg.png" width="60px"> <img src="img/JavaScript.png" width="60px"> <img src="img/logo512.png" width="60px">
 
 
 ---
