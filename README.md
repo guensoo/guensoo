@@ -1,6 +1,6 @@
 # 보유 SKILLS
 ## Front-end
-<img src="img/html.svg.png" height="48px"> <img src="img/css.svg.png" height="48px"> <img src="img/JavaScript.png" height="40px"> <img src="img/logo512.png" height="40px"> <img src="img/RN.png" height="40px">
+<img src="img/html.svg.png" height="48px"> <img src="img/css.svg.png" height="48px"> <img src="img/JavaScript.png" height="40px"> <img src="img/logo512.png" height="40px"> <img src="img/RN.png" height="38px">
 ## Back-end
 <img src="img/c.png" width="60px"> <img src="img/python.webp" width="60px"> <img src="img/java.png" width="60px"> <img src="img/springBoot.png" width="60px">
 ## DBMS
@@ -14,7 +14,7 @@
 🔗 **[코드 보러 가기](https://github.com/guensoo/guensoo.github.io)**
 
 ## 활용 기술
-<img src="img/html.svg.png" width="60px"> <img src="img/css.svg.png" width="60px"> <img src="img/JavaScript.png" width="60px"> <img src="img/logo512.png" width="60px">
+<img src="img/html.svg.png" height="48px"> <img src="img/css.svg.png" height="48px"> <img src="img/JavaScript.png" height="40px"> <img src="img/logo512.png" height="40px">
 
 
 ---
