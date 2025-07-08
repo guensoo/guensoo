@@ -1,10 +1,6 @@
 # 보유 SKILLS
 ## Front-end
-<img src="img/html.svg.png" height="48px" style="margin-right:10px;">
-<img src="img/css.svg.png" height="48px" style="margin-right:10px;">
-<img src="img/JavaScript.png" height="48px" style="margin-right:10px;">
-<img src="img/logo512.png" height="48px" style="margin-right:10px;">
-<img src="img/RN.png" height="48px" style="margin-right:10px;">
+<img src="img/html.svg.png" height="48px"> <img src="img/css.svg.png" height="48px"> <img src="img/JavaScript.png" height="48px"> <img src="img/logo512.png" height="48px"> <img src="img/RN.png" height="48px">
 ## Back-end
 <img src="img/c.png" width="60px"> <img src="img/python.webp" width="60px"> <img src="img/java.png" width="60px"> <img src="img/springBoot.png" width="60px">
 ## DBMS
